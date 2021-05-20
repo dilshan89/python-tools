@@ -3,7 +3,7 @@ Collection of Supportive python tool scripts
 
 ---
 ### Json format validator ([json_format_validator.py](https://github.com/dilshan89/python-tools/blob/main/scripts/json_format_validator.py))
-Includes simple methods to validate a json string or a json file.
+Includes simple methods to validate a json string or a json file. And it gives the specific error exception when it fails.
 
 ---
 ### Json to text ([json_to_text.py](https://github.com/dilshan89/python-tools/blob/main/scripts/json_to_text.py))
