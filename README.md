@@ -10,3 +10,7 @@ Includes simple methods to validate a json string or a json file. Also it gives 
 Converts a json string which taken from as public url response into a text file. 
 
 ---
+### pdf writer ([pdf_writer.py](https://github.com/dilshan89/python-tools/blob/main/scripts/pdf_writer.py))
+Write our own text into pdf file. script includes, adding multiple pages, page setup, text formatting. 
+
+---
