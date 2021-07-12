@@ -14,3 +14,7 @@ Converts a json string which taken from as public url response into a text file.
 Write our own text into pdf file. script includes, adding multiple pages, page setup, text formatting. 
 
 ---
+### Json to yaml ([json_to_yaml.py](https://github.com/dilshan89/python-tools/blob/main/scripts/json_to_yaml.py))
+Converts a json file into a yaml file. 
+
+---
