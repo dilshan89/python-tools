@@ -18,3 +18,7 @@ Write our own text into pdf file. script includes, adding multiple pages, page s
 Converts a json file into a yaml file. 
 
 ---
+### Yaml to json ([yaml_to_json.py](https://github.com/dilshan89/python-tools/blob/main/scripts/yaml_to_json.py))
+Converts a yaml file into a json file. 
+
+---
